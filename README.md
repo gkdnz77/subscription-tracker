@@ -10,7 +10,6 @@ Son ödeme tarihlerini hatırlatır, aylık toplam maliyetinizi gösterir ve öd
 - ✅ Ödemeyi **“ödendi”** diye işaretleyince otomatik bir sonraki aya taşır  
 - ✅ Yaklaşan ödemeleri listeler (kaç gün kaldığını gösterir)  
 - ✅ Aylık toplam maliyeti hesaplar  
-- ✅ Bootstrap ile şık koyu tema 🎨  
 - ✅ Basit ve hızlı kullanım (Flask + JSON dosyası)  
 
 
