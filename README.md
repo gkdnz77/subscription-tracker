@@ -13,9 +13,4 @@ Son ödeme tarihlerini hatırlatır, aylık toplam maliyetinizi gösterir ve öd
 - ✅ Bootstrap ile şık koyu tema 🎨  
 - ✅ Basit ve hızlı kullanım (Flask + JSON dosyası)  
 
-## 🛠️ Kurulum
 
-### 1️⃣ Depoyu Klonla
-```bash
-git clone https://github.com/gkdnz77/subscription-tracker.git
-cd subscription-tracker
